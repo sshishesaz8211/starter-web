@@ -1,3 +1,5 @@
 
 this is second file that is created and should be added to the Git remote repository.
 adding second line.
+added the third line.
+added last line.
