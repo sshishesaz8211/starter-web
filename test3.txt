@@ -1,1 +1,2 @@
 test1
+this file should be ignored since it is added to the .gignore file
